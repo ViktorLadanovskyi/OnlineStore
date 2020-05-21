@@ -603,6 +603,13 @@ a .badge{
         text-transform: uppercase;
     }
 
+    .nav-link:hover{
+        margin: 0 -15px;
+        padding-left: 15px;
+        color: #353f49;
+        background: #d9d9da;
+    }
+
     .mobile-nav-wraper a{
         display: block;
         border-right: none;
